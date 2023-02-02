@@ -1,5 +1,4 @@
 # My DataJourney
 My first repository to train and learn to be a Data Analyst
 ## Some background ...
-Im a Colombian Industrial Engineer looking to start on the Data Analytics career path, 
-
+Im a Colombian Industrial Engineer looking to start on the Data Analytics career path. I started the IBM Data Analyst Professional Certificate some month ago, so I will use this as my learning journal ...
